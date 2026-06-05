@@ -117,8 +117,8 @@ body {
     overflow-y: auto;
     position: static;
     line-height: 1.6;
-    color: var(--dark-text);
-    background: linear-gradient(135deg, #576c8b 0%, #020407 100%);
+    color: white;
+    background: #3498db;
     min-height: 100vh;
     
 }
